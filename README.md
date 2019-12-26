@@ -2,6 +2,8 @@
 
 ![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/ihacker/hexo) ![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/ihacker/hexo)
 
+Hexo Version: 20191226
+
 Docker Hexo is an automatic build repository for docker cloud.
 
 Master branch is related with latest Hexo environment via alpine image.
